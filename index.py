@@ -14,7 +14,7 @@ print(form.getvalue("name"))
 
 html = """<!DOCTYPE html>
 <head>
-    <title>Mon 1er programme</title>
+    <title>Mon 1er python programme</title>
 </head>
 <body>
     <form action="/index.py" method="post">
